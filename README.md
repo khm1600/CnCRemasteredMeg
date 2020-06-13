@@ -1,0 +1,1 @@
+Reads a `.meg` file of Command & Conquer Remastered Collection and extracts its content to a directory. The file uses the unencrypted format #3 specified [here](https://modtools.petrolution.net/docs/MegFileFormat).
